@@ -1,4 +1,4 @@
-# SMA
+# Supermetrics Assignment
 TASK
 1. Register a short-lived token on the fictional Supermetrics Social Network REST API
 2. Fetch the posts of fictional users on a fictional social platform and process their posts.
